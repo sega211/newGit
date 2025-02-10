@@ -25,7 +25,8 @@
 Вот пример отправки на вшеншний репозиторий
 
 ```git
-git remote add origin git@github.com:sega211/newGit.git  git push -u origin main
+git remote add origin git@github.com:sega211/newGit.git
+git push -u origin main
 ```
 
 
